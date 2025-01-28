@@ -55,14 +55,14 @@ I’ll get hands-on experience visualizing and debugging in ROS2.
 
 ### 1. Controller Tuning (60 points)
 Use rqt_reconfigure to tune the following PD controller parameters in real-time:
-'''python
+
 
 Controller parameters that I tuned
 self.Kp_linear = 5.0   # Proportional gain for linear velocity
 self.Kd_linear = 0.5   # Derivative gain for linear velocity
 self.Kp_angular = 9.5  # Proportional gain for angular velocity
 self.Kd_angular = 0.01  # Derivative gain for angular velocity
-'''
+
 
 This was done using a trial-and-error method, checking various parameters to see if it performs according to the expected outcome. By doing this, we tested out the various limitations that the total has in certain areas by navigating edge to edge.
 
