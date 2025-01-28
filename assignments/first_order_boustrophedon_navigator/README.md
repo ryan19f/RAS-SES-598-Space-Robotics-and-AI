@@ -66,5 +66,8 @@ self.Kd_angular = 0.01  # Derivative gain for angular velocity
 
 This was done using a trial-and-error method, checking various parameters to see if it performs according to the expected outcome. By doing this, we tested out the various limitations that the total has in certain areas by navigating edge to edge.
 
+<img width="664" alt="Screenshot 2025-01-27 at 10 46 54 PM" src="https://github.com/user-attachments/assets/b7bb433b-11d6-43d1-ac3e-99fb5db5faf2" />
+<img width="503" alt="Screenshot 2025-01-27 at 10 52 15 PM" src="https://github.com/user-attachments/assets/5c056088-5a93-4d92-ba51-5bbf8d2eedd7" />
+
 
 
