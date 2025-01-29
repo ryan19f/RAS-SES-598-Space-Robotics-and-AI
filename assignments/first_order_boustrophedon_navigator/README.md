@@ -1,5 +1,8 @@
 <b> What I'm Doing:- </b>
-In this assignment, I’ll work with the provided ROS2 code using Turtlesim to refactor and tune a navigator for a precise lawnmower survey (also called a boustrophedon pattern). The code I’m starting with produces a non-uniform pattern (like the one shown above). My task is to dig into how proper lawnmower surveys are designed and modify the navigator to create a uniform, systematic survey pattern.
+In this assignment, I’ll work with the provided ROS2 code using Turtlesim to refactor and tune a navigator for a precise lawnmower survey (also called a boustrophedon pattern). <br>
+<center><img width="506" alt="image" src="https://github.com/user-attachments/assets/6a741c3d-a1fb-4f2d-9de8-3fadbe402e82" /></center><br>
+
+The code I’m starting with produces a non-uniform pattern (like the one shown above). My task is to dig into how proper lawnmower surveys are designed and modify the navigator to create a uniform, systematic survey pattern.
 
 <b> Why This Matters:- </b>
 Boustrophedon patterns (literally meaning “ox-turning,” like plowing a field) are super important for coverage tasks in many areas:
@@ -13,7 +16,7 @@ Search and rescue missions
 Environmental and geological surveys
 Ocean Exploration
 Autonomous underwater vehicles (AUVs) use these patterns for tasks like:
-Mapping the seafloor
+Mapping the sea-floor
 Searching for wreckage
 Monitoring marine ecosystems
 The performance of these surveys depends on how accurately the robot follows its path with minimal cross-track error. This assignment simulates those real-world challenges using Turtlesim in a controlled 2D environment.
@@ -41,8 +44,8 @@ Python Tools
 To help with analysis and visualization, I’ll also install these Python libraries:
 
 pip3 install numpy matplotlib<br>
-<br> What I’m Learning
-How PD Control Works
+<be> <b>What I’m Learning...</b>
+<b> How PD Control Works</b>
 I’ll dive into the effects of proportional and derivative parameters on first-order systems and learn how they influence tracking performance.
 Controller Tuning<br>
 I’ll practice adjusting the PD controller to balance smooth motion and precise tracking.
