@@ -44,13 +44,13 @@ Python Tools
 To help with analysis and visualization, I’ll also install these Python libraries:
 
 pip3 install numpy matplotlib<br>
-<be> <b>What I’m Learning...</b>
-<b> How PD Control Works</b>
-I’ll dive into the effects of proportional and derivative parameters on first-order systems and learn how they influence tracking performance.
-Controller Tuning<br>
+<br> <b>What I’m Learning...</b><br>
+<b> How PD Control Works </b><br>
+I’ll dive into the effects of proportional and derivative parameters on first-order systems and learn how they influence tracking performance.<br>
+<b>Controller Tuning</b><br>
 I’ll practice adjusting the PD controller to balance smooth motion and precise tracking.
-Performance Analysis<br>
-Using ROS2 tools and Python visualizations, I’ll analyze how well the robot follows the desired path.
+<br> <b>Performance Analysis</b><br>
+Using ROS2 tools and Python visualizations, I’ll analyze how well the robot follows the desired path.<br>
 ROS2 Debugging
 I’ll get hands-on experience visualizing and debugging in ROS2.
 
