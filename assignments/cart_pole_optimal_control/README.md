@@ -18,7 +18,7 @@ Setting "x" to 5 caused rapid cart movement and pole instability.
 
 Adjusting "x_dot" to 0.1 increased balance time but caused rapid cart movement.
 
-Increasing "x_dot" to 3 minimized position movement and stabilized the system.
+Increasing "x_dot" to 9 minimized position movement and stabilized the system.
 
 #### Key Issues:
 
@@ -52,7 +52,7 @@ Low R improved responsiveness at the cost of energy efficiency.
 
 #### Optimized parameters:
 
-Q = [1.0, 3.0, 1.0, 3.0]
+Q = [1.0, 9.0, 1.0, 9.0]
 
 R = 0.1
 
@@ -86,7 +86,7 @@ Explore adaptive control for dynamic environments.
 
 ## 7. Conclusion
 
-The optimized controller (Q = [1.0, 3.0, 1.0, 3.0], R = 0.1) achieved a well-balanced system with effective disturbance handling and minimal energy use.
+The optimized controller (Q = [1.0, 9.0, 1.0, 9.0], R = 0.1) achieved a well-balanced system with effective disturbance handling and minimal energy use.
 
 
 
