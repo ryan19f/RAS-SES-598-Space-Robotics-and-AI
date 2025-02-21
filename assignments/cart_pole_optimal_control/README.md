@@ -2,6 +2,12 @@
 
 ### Technical Report: Controller Behavior Analysis
 
+
+https://github.com/user-attachments/assets/f6af1e70-379f-43c1-b67b-171227c624de
+
+
+
+
 ## 1. Introduction
 
 This report summarizes the analysis and tuning of a cart-pole control system, focusing on baseline performance, parameter effects, and disturbance response.
