@@ -29,6 +29,8 @@
 
 Use NeRFStudio software for Gaussian splatting
 
+https://github.com/user-attachments/assets/edc8d8ab-bb56-45ub-95c2-a7cc4c1bac6d
+
 #### Metrics  
 
 The Gaussian Splatting model showed poor results. To improve performance, increasing image quality or quantity, and tuning training parameters may be needed.
