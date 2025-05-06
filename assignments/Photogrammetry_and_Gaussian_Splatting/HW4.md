@@ -29,6 +29,29 @@
 
 Use NeRFStudio software for Gaussian splatting
 
+#### Metrics  
+
+The Gaussian Splatting model showed poor results. To improve performance, increasing image quality or quantity, and tuning training parameters may be needed.
+
+PSNR : 14.21  
+SSIM : 0.178
+
+
+```
+  "results": {
+    "psnr": 14.207271575927734,
+    "psnr_std": NaN,
+    "ssim": 0.17881707847118378,
+    "ssim_std": NaN,
+    "lpips": 0.7272768020629883,
+    "lpips_std": NaN,
+    "num_rays_per_sec": 434151.90625,
+    "num_rays_per_sec_std": NaN,
+    "fps": 0.3144685924053192,
+    "fps_std": NaN
+  }
+```
+
 
 
 
