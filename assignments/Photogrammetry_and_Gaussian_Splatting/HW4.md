@@ -25,6 +25,10 @@
 
 ![modelk](https://github.com/user-attachments/assets/41af7429-f9e7-462b-8ea6-ac0f66781767)
 
+## Gaussian Splatting using NeRFStudio
+
+Use NeRFStudio software for Gaussian splatting
+
 
 
 
